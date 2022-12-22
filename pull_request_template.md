@@ -1,10 +1,10 @@
 ## Type of pull request
-[ ] New feature
-[ ] Bug fix
-[ ] Refactor
-[ ] Unit tests
-[ ] Documentation update
-[ ] Other (please explain here.)
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Refactor
+- [ ] Unit tests
+- [ ] Documentation update
+- [ ] Other (please explain here.)
 
 ## Implementation details
 [Write a high level overview of the changes.]
